@@ -1,3 +1,4 @@
+2024年clash规则地址:https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini
 简介
 本项目生成适用于Clash Premium 内核的规则集（RULE-SET），同时适用于所有使用 Clash Premium 内核的 Clash 图形用户界面（GUI）客户端。使用 GitHub Actions 北京时间每天早上 6:30 自动构建，保证规则最新。
 
